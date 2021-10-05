@@ -5,7 +5,6 @@ const SHIPIT_API_KEY = "SUPER-DUPER-SECRET";
 
 const axios = require("axios");
 
-
 /** Ship a single product through the shipit API.
  *
  * Returns shipId from shipit.
